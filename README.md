@@ -27,4 +27,4 @@ An Arduino-based temperature monitoring project using the LM35 analog temperatur
 - Basic embedded programming
 
 ## Author
-Electrical & Electronics Engineering Student
+OSTIM Technical University Electrical & Electronics Engineering Student Gani Kahraman Aslan 2026 Ankara Turkey
